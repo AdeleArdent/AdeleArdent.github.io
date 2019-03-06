@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Adele Ardent"
-  avatar           : "/assets/images/main/adeleardent_biopic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/main/adeleardent_biopic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bio"
 "
   location         : "Albuquerque, NM"
