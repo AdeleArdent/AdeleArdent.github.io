@@ -107,9 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Adele Ardent"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "In my work, I’m drawn to places of tension in relationships. These are the places where biological or psychological needs and desires conflict or coalesce, where the thread of connection may snap entirely… or perhaps, where living beings may be knit into tighter interdependency.
-I earned my first degree in biology, and pursued work in both clinical genetics and in museum administration before returning to school. I’m currently earning a second Bachelor’s degree from the University of New Mexico in Studio Art, with a focus on Art & Ecology. I love the fact that no subject is off-limits to the fierce curiosity of the artist, and through the study of Art & Ecology, I am seeking to move my work ever-deeper into interdisciplinary territory—to better understand, illuminate, and participate in the complex entanglements of the living world.
+  avatar           : "/assets/images/main/adeleardent_biopic" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : " New Mexico in Studio Art, with a focus on Art & Ecology. I love the fact that no subject is off-limits to the fierce curiosity of the artist, and through the study of Art & Ecology, I am seeking to move my work ever-deeper into interdisciplinary territory—to better understand, illuminate, and participate in the complex entanglements of the living world.
 "
   location         : "Albuquerque, NM"
   email            :
