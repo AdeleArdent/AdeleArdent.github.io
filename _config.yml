@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Adele Ardent"
   avatar           : "/assets/images/main/adeleardent_biopic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Bio"
+  bio              : "Inquisitive octopus."
 "
   location         : "Albuquerque, NM"
   email            :
@@ -130,7 +130,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/adeleardent"
 
 # Site Footer
 footer:
