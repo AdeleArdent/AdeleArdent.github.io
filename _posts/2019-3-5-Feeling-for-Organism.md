@@ -2,7 +2,6 @@
 layout: post
 title: A Feeling for the Organism
 ---
-
 # Modifying Plants for Human Companionship and Environmental Mediation
 
 Over the past few years, I’ve found myself drawn to the possibilities of textiles, specifically finding ways to incorporate plants into domestic textiles or garments, with the idea of creating a microenvironment where two very different organisms can begin a process of physiological entanglement. 
