@@ -19,16 +19,12 @@ The next step, I believe, would be to more purposefully genetically modify plant
 
 I’ll be breaking this project down into the following steps. Each component will be documented on its own page.
 
-Confirm identity of plant collaborator.
-Identify the specific chemical compounds plants will produce or absorb.
-Identify relevant cellular machinery and associated genetic code.
-Create protocol for genetic modification and propagation.
-Create garment.
-Introduce genetic modifications into companion organisms.
-Propagate plants.
-Field trials and revision.
-Final product.
-
-**bold**
-
-[link to google](www.google.com)
+* Confirm identity of plant collaborator.
+* Identify the specific chemical compounds plants will produce or absorb.
+* Identify relevant cellular machinery and associated genetic code.
+* Create protocol for genetic modification and propagation.
+* Create garment.
+* Introduce genetic modifications into companion organisms.
+* Propagate plants.
+* Field trials and revision.
+* Final product.
