@@ -7,11 +7,11 @@ title: A Feeling for the Organism
 
 Over the past few years, I’ve found myself drawn to the possibilities of textiles, specifically finding ways to incorporate plants into domestic textiles or garments, with the idea of creating a microenvironment where two very different organisms can begin a process of physiological entanglement. 
 
-[GroundWork image insert] 
+(/assets/images/20190305_gw.jpg)
 
 In Fall 2017, I and another student, Paul Ross in UNM’s Landscape Architecture program, began working with a plant collaborator native to the Rio Grande, the Coyote willow, creating a series of performance-based experiments that explore places of friction and connection between plants and humans-as-animals. We focused on the exchanges that bind these organisms together, exploring both tenderness and competition within gestures of breath, repose, and soil-building during the winter dormancy period. We created a set of garments that would allow us to hold the plants close to our breath, and provided a place that would allow us to gather materials that could break down into soil to nourish these living creatures.
 
-[Seed Quilt image insert]
+(/assets/images/20190305_seedquilt.jpg)
 
 During this time, I also created a quilt to hold the seeds of heirloom or regionally-adapted food-producing seeds such as corn, beans, and squash. The history we share with these plants is one of control, of humans culling plant ancestors to shaped them to our use. But our predecessors bred these seeds to thrive by spending the winter inside a cool, dark, and dry human-made space, which now gives us the opportunity to welcome them back into our emotional space by inviting them to share the intimate familial space of the bedroom with us.
 
